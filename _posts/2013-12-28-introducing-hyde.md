@@ -25,13 +25,13 @@ I am a Master's degree student at Seoul National University, advised by Prof. [Y
 
 ### Awards
 
-* 2016 | Ministry of Education, Youth and Sports’ Bachelor Degree Scholarship
-* 2017 | KOICA-CKCC Scholarship ICT Professional Training Program
-* 2017 | ROBOCON Cambodia Robot Design Award
-* 2018 | KOICA-CKCC Scholarship ICT Professional Training Program
-* 2019 | Soc Camp 2019 Fully Funded Scholarship to KAIST, Korea
-* 2019 | SHARE Scholarship Batch 5 (Semester Exchange in Malaysia)
-* 2022 | Global Korea Scholarship (1-Year Language Program and 2-Years Master Degree Program)
+* 2016 - Ministry of Education, Youth and Sports’ Bachelor Degree Scholarship
+* 2017 - KOICA-CKCC Scholarship ICT Professional Training Program
+* 2017 - ROBOCON Cambodia Robot Design Award
+* 2018 - KOICA-CKCC Scholarship ICT Professional Training Program
+* 2019 - Soc Camp 2019 Fully Funded Scholarship to KAIST, Korea
+* 2019 - SHARE Scholarship Batch 5 (Semester Exchange in Malaysia)
+* 2022 - Global Korea Scholarship (1-Year Language Program and 2-Years Master Degree Program)
 
 ### Project (Academic)
 
