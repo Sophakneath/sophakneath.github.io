@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Self-Introduction
 ---
 
-I am a Master's degree student at Seoul National University, advised by Prof. [Your Advisor's Name]. My research interest lies in integrating machine learning into mobile applications to enhance daily life activities. I am particularly focused on Human-AI interaction and healthcare. By developing innovative AI-empowered systems, I aim to create practical solutions that improve human well-being and streamline everyday tasks. Through this work, I hope to contribute to the advancement of technology that supports and enriches people's lives.
+### Self-Introduction
+
+I am a Master's degree student at Seoul National University. My research interest lies in integrating machine learning into mobile applications to enhance daily life activities. I am particularly focused on Human-AI interaction and healthcare. By developing innovative AI-empowered systems, I aim to create practical solutions that improve human well-being and streamline everyday tasks. Through this work, I hope to contribute to the advancement of technology that supports and enriches people's lives.
 
 ### Education
 
@@ -18,10 +19,12 @@ I am a Master's degree student at Seoul National University, advised by Prof. [Y
 
 ### Work Experience
 
-* Software Developer, Soramitsu Khmer (Cambodia), (July 2020 - August 2022)
+* Software Developer, Soramitsu Khmer Co., Ltd (Cambodia), November 2020 - August 2022
     * Developing application programming interfaces (APIs)
     * Testing and debugging code and fixing bugs
     * Working together with front-end developers to ensure efficiency in web application development
+
+* Software Developer Intern, Soramitsu Khmer Co., Ltd (Cambodia), July 2020 - November 2020
 
 ### Awards
 
@@ -36,12 +39,22 @@ I am a Master's degree student at Seoul National University, advised by Prof. [Y
 ### Project (Academic)
 
 * Mobile and Ubiquitous Computing (Spring 2024)
-    * proposal | paper | presentation | code | video demo
+    * [proposal](https://drive.google.com/file/d/1dQtNKnzk-w52rzrWMPSvCIPr2_YtZnU_/view?usp=sharing) | 
+    [paper](https://drive.google.com/file/d/1pyX-d_Cn2Jm7XtXnnuHW1d2fN9JSMvGR/view?usp=sharing) | 
+    [presentation](https://drive.google.com/file/d/15iXuGRNCOosjfpkMOJRhC0xp-L4tLA8s/view?usp=sharing) | 
+    [code](https://github.com/Sophakneath/Mini-Project.git) | 
+    [video demo](https://drive.google.com/file/d/11mMylRR_To9ut81f--AXTH_RP0zWTQ78/view?usp=sharing)
 
 * Topic in Computer Network (Spring 2024)
-    * proposal | presentation | code
+    * [proposal](https://drive.google.com/file/d/1Ca1doB7w5h34yRlhhpj33J8T9dhVHQMo/view?usp=sharing) | 
+    [presentation]() | 
+    [code](https://github.com/Sophakneath/Computer-Network-Project.git)
 
 ### Extracurricular Activities & Expereinces
+* 2020 - Participate in Technovation Girl Cambodia as a Mentor
+* 2019 - Participate in KAIST SoC Camp 2019
+* 2018 - Participate in Summer exchange Program at Northwestern Polytechnical University in Xi’an, China
+* 2018 - Volunteer in World Robotic Olympaid
 
 ### Language Proficiency
 
@@ -50,10 +63,9 @@ I am a Master's degree student at Seoul National University, advised by Prof. [Y
 * English - High Intermediate (TEPS: 336 - September 2023)
 
 ### Contact
-Lengry Sophakneath
-sophakneath08@snu.ac.kr
-pheakneath8@gmail.com
-+82-10-9882-0797
-MS, Seoul National University, Seoul, Repulic of Korea
-
+Lengry Sophakneath<br>
+sophakneath08@snu.ac.kr<br>
+pheakneath8@gmail.com<br>
++82-10-9882-0797<br>
+MS, Seoul National University, Seoul, Republic of Korea
 
